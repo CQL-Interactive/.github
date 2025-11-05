@@ -12,14 +12,18 @@ Nous sommes deux adolescents à avoir créé ce projet : Théo GRAZIANO et Elie 
 
 **Lien vers le GitHub :** [github.com/CQL-Interactive](https://github.com/CQL-Interactive/)
 
+**Lien vers le Tipeee, pour nous soutenir :** [tipeee.com/cql-interactive](https://fr.tipeee.com/cql-interactive/)
+
+**Lien vers le TikTok :** [tiktok.com/@cql_interactive](https://www.tiktok.com/@cql_interactive)
+
+**Le Bento :** [bento.me/cql-interactive](https://bento.me/cql-interactive)
+
+**Lien vers la chaîne YouTube :** [youtube.com/@cquoilejeu](https://www.youtube.com/@cquoilejeu)
+
+**Lien vers Instagram :** [instagram.com/cquoi_lejeu](https://www.instagram.com/cquoi_lejeu)
+
 ## **Nos jeux créés :**
 
 **C Quoi Le Jeu :** 
 - *le lien :* [cquoilejeu.fr](https://cquoilejeu.fr)
-- *le Bento :* [bento.me/cquoilejeu](https://bento.me/cquoilejeu)
-- *le GitHub :*  [github.com/CQL-Interactive/C-Quoi-Le-Jeu](https://github.com/CQL-Interactive/C-Quoi-Le-Jeu/)
-- *pour nous soutenir :* [tipeee.com/c-quoi-le-jeu](https://fr.tipeee.com/c-quoi-le-jeu)
-- *Instagram :* [instagram.com/cquoi_lejeu](https://www.instagram.com/cquoi_lejeu?igsh=bDl6OGFtdnA2OGdo)
-- *TikTok :* [tiktok.com/@c_quoi_le_jeu](https://www.tiktok.com/@c_quoi_le_jeu?_t=ZN-8wN2w0gTh4w&_r=1)
-- *Lien vers la chaîne YouTube :* [youtube.com/@cquoilejeu](https://www.youtube.com/@cquoilejeu)
 - *Email :* contact@cquoilejeu.fr
