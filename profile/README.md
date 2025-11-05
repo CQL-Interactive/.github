@@ -20,7 +20,7 @@ Nous sommes deux adolescents à avoir créé ce projet : Théo GRAZIANO et Elie 
 
 **Lien vers la chaîne YouTube :** [youtube.com/@cquoilejeu](https://www.youtube.com/@cquoilejeu)
 
-**Lien vers Instagram :** [instagram.com/cquoi_lejeu](https://www.instagram.com/cquoi_lejeu)
+**Lien vers Instagram :** [instagram.com/cql_interactive](https://www.instagram.com/cql_interactive)
 
 ## **Nos jeux créés :**
 
