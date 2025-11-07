@@ -18,12 +18,12 @@ Nous sommes deux adolescents à avoir créé ce projet : Théo GRAZIANO et Elie 
 
 **Le Bento :** [bento.me/cql-interactive](https://bento.me/cql-interactive)
 
-**Lien vers la chaîne YouTube :** [youtube.com/@cquoilejeu](https://www.youtube.com/@cquoilejeu)
+**Lien vers la chaîne YouTube :** [youtube.com/@cql-interactive](https://www.youtube.com/@cql-interactive)
 
 **Lien vers Instagram :** [instagram.com/cql_interactive](https://www.instagram.com/cql_interactive)
 
 ## **Nos jeux créés :**
 
 **C Quoi Le Jeu :** 
-- *le lien :* [cquoilejeu.fr](https://cquoilejeu.fr)
+- *Le lien :* [cquoilejeu.fr](https://cquoilejeu.fr)
 - *Email :* contact@cquoilejeu.fr
