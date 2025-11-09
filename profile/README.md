@@ -8,6 +8,8 @@ Nous sommes deux adolescents à avoir créé ce projet : Théo GRAZIANO et Elie 
 
 ## **Nous rejoindre🔗:**
 
+**Notre Site :** [cql-interactive.fr](https://cql-interactive.fr)
+
 **Lien vers le serveur Discord officiel :** [discord.gg/Evu8WXm27z](https://discord.gg/Evu8WXm27z)
 
 **Lien vers le GitHub :** [github.com/CQL-Interactive](https://github.com/CQL-Interactive/)
