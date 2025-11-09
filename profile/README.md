@@ -1,6 +1,6 @@
 ## **CQL Interactive, un groupe créé par 2 lycéens**
 
-CQL Interactive est un groupe créé par 2 adolescents qui regroupe plusieurs quiz en ligne, comme [C Quoi Le Jeu](https://cquoilejeu.fr)
+CQL Interactive est un groupe créé par 2 adolescents qui regroupe plusieurs quiz en ligne, comme [C Quoi Le Jeu](https://cquoilejeu.fr). Retrouvez nous sur [cql-interactive.fr](https://cql-interactive.fr).
 
 ## **Les co-créateurs🤝:**
 
